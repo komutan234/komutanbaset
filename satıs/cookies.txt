@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.ucuzhesabim.com	TRUE	/	FALSE	1999999999	__cfduid	db08940655d74afa921ddab22b03d53e71619787796
+ucuzhesabim.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+

@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+16:03:16	115/115	---MCZ	403	error ('Forbidden')	text/html	date:Fri,%2030%20Apr%202021%2013:03:15%20GMT	https://ucuzhesabim.com/robots.txt		(from )
+16:03:17	115/115	---MCZ	-1	error ('Error%20when%20decompressing')	text/html	date:Fri,%2030%20Apr%202021%2013:03:16%20GMT	https://ucuzhesabim.com/	C:/Benim%20Web%20Sitem/sat%c4%b1s/ucuzhesabim.com/index.html	(from )
